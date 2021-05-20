@@ -1,2 +1,2 @@
 # Java-Caculator-Version-2
-Simple GUI calculator  built using java awt and swing
+Java Calculator Version 2.0 Java
